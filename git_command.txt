@@ -10,5 +10,5 @@ $ git reflog
   workspace -> stage -> branches
 $ git checkout <file>
 $ git checkout head <file>
-$ git push
 $ git remote add origin <git repository address>
+$ git push -u origin master
