@@ -4,4 +4,8 @@ $ git init
 $ git add .(git add <file>)
 $ git commit -m 'describe'
 $ git diff <file>
+$ git log (git log --pretty=oneline)
+$ git reset --hard <commit id>
+$ git reflog
+workspace -> stage -> branches
 $ git push
