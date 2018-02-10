@@ -15,4 +15,6 @@ $ git push -u origin master
 $ git clone <git remote address>
 $ git checkout -b <branch name>
 $ git checkout <branch name>
+$ git branch
 $ git merge <branch name>
+$ git branch -d <branch name>
