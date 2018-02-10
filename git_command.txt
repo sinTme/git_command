@@ -9,5 +9,5 @@ $ git reset --hard <commit id>
 $ git reflog
   workspace -> stage -> branches
 $ git checkout <file>
-
+$ git checkout head <file>
 $ git push
