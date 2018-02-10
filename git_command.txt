@@ -7,5 +7,7 @@ $ git diff <file>
 $ git log (git log --pretty=oneline)
 $ git reset --hard <commit id>
 $ git reflog
-workspace -> stage -> branches
+  workspace -> stage -> branches
+$ git checkout <file>
+
 $ git push
